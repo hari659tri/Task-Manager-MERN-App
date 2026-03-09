@@ -37,7 +37,7 @@ Users can create, update, delete and view tasks with authentication.
 <li>Axios</li>
 <li>React Toastify</li>
 </ul>
-
+<a href="https://task-manager-mern-app-gra7.vercel.app/">Frontend Link </a>
 <h3>Backend</h3>
 <ul>
 <li>Node.js</li>
@@ -46,7 +46,7 @@ Users can create, update, delete and view tasks with authentication.
 <li>Mongoose</li>
 <li>JWT Authentication</li>
 </ul>
-
+<a href="https://task-manager-mern-app-1-3r27.onrender.com/api"> Backend Link </a>
 <hr>
 
 <h2>Project Structure</h2>
